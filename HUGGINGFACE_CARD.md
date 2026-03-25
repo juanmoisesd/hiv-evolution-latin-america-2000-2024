@@ -14,21 +14,16 @@ tags:
 
 # Evolución del VIH en Latinoamérica: Datos y Cifras 2000-2024. DOI: 10.17632/nymm
 
-- **DOI:** [https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024](https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024)
-- **GitHub:** [juanmoisesd/hiv-evolution-latin-america-2000-2024](https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024](https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024) | **GitHub:** [juanmoisesd/hiv-evolution-latin-america-2000-2024](https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024/files/data.csv")
+# See https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024 for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Evolución del VIH en Latinoamérica: Datos y Cifras 2000-2024},year={2025},doi={https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024},url={https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024}}
 ```
