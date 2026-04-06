@@ -50,3 +50,12 @@ De la Serna Tuya, J. M. (2026). *Evolución del VIH en Latinoamérica: Datos y C
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Hiv Evolution Latin America 2000 2024*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/hiv-evolution-latin-america-2000-2024 
+
+See `CITATION.cff` for formatted references.
